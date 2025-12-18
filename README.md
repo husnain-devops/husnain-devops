@@ -12,20 +12,20 @@
 
 ---
 
-## 🎯 About Me
+##  About Me
 
 I'm a passionate infrastructure engineer specializing in **bare metal servers**, **Kubernetes orchestration**, and **cloud-native architectures**. With deep expertise in **deep learning** and **AI**, I bridge the gap between infrastructure and machine learning workloads. I hold professional certifications in **Microsoft Azure (AZ-104)** and **Google Cloud Platform (Professional Cloud Architect)**, enabling me to design and implement robust, scalable solutions across multiple cloud providers.
 
-### 🔥 What I Do
+###  What I Do
 
-- 🖥️ **Bare Metal Server Management**: Expert in provisioning, configuring, and optimizing physical infrastructure for high-performance workloads
-- ☸️ **Kubernetes**: Building and managing containerized applications at scale with K8s
-- 🤖 **AI/ML Infrastructure**: Designing infrastructure for deep learning models and AI workloads
-- ☁️ **Multi-Cloud Architect**: Certified in Azure and GCP, designing cloud-native solutions
+-  **Bare Metal Server Management**: Expert in provisioning, configuring, and optimizing physical infrastructure for high-performance workloads
+-  **Kubernetes**: Building and managing containerized applications at scale with K8s
+-  **AI/ML Infrastructure**: Designing infrastructure for deep learning models and AI workloads
+-  **Multi-Cloud Architect**: Certified in Azure and GCP, designing cloud-native solutions
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 ### Infrastructure & DevOps
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -54,7 +54,7 @@ I'm a passionate infrastructure engineer specializing in **bare metal servers**,
 
 ---
 
-## 🏆 Certifications
+##  Certifications
 
 <div align="center">
 
@@ -68,9 +68,9 @@ I'm a passionate infrastructure engineer specializing in **bare metal servers**,
 
 ---
 
-## 💼 Expertise Areas
+##  Expertise Areas
 
-### 🖥️ Bare Metal Servers
+###  Bare Metal Servers
 - Server provisioning and configuration management
 - Hardware & Network configuration
 - Security hardening
@@ -78,7 +78,7 @@ I'm a passionate infrastructure engineer specializing in **bare metal servers**,
 - BIOS/UEFI configuration and firmware updates
 
 
-### ☸️ Kubernetes
+###  Kubernetes
 - Cluster design and deployment (on-premises and cloud)
 - Helm charts and package management
 - Service mesh implementation (Istio, Linkerd)
@@ -86,7 +86,7 @@ I'm a passionate infrastructure engineer specializing in **bare metal servers**,
 - Security policies (RBAC, Pod Security Policies, Network Policies)
 - Monitoring and observability (Prometheus, Grafana, Jaeger)
 
-### ☁️ Cloud Architecture
+###  Cloud Architecture
 - Multi-cloud and hybrid cloud strategies
 - Infrastructure as Code (Terraform, CloudFormation)
 - Serverless architectures
@@ -94,7 +94,7 @@ I'm a passionate infrastructure engineer specializing in **bare metal servers**,
 - Cost optimization and resource management
 - Disaster recovery and high availability design
 
-### 🤖 Deep Learning & AI Infrastructure
+###  Deep Learning & AI Infrastructure
 - GPU cluster setup and management (NVIDIA CUDA, ROCm)
 - Training and Transfer Learning
 - Model serving platforms (TensorFlow Serving, TorchServe, Triton)
@@ -106,21 +106,21 @@ I'm a passionate infrastructure engineer specializing in **bare metal servers**,
 
 ---
 
-## 🚀 Recent Projects
+##  Recent Projects
 
 ### Infrastructure & DevOps
-- 🔧 **Production Kubernetes Cluster**: Multi-master HA cluster with automated scaling
-- 🏗️ **Bare Metal Infrastructure**: Automated provisioning system for physical servers
-- ☁️ **Multi-Cloud Migration**: Migrated workloads from on-prem to Azure and GCP
+-  **Production Kubernetes Cluster**: Multi-master HA cluster with automated scaling
+-  **Bare Metal Infrastructure**: Automated provisioning system for physical servers
+-  **Multi-Cloud Migration**: Migrated workloads from on-prem to Azure and GCP
 
 ### AI/ML Infrastructure
-- 🤖 **GPU Cluster for Deep Learning**: Kubernetes-based GPU cluster for distributed training
-- 📊 **ML Pipeline Platform**: End-to-end ML pipeline with Kubeflow
-- 🚀 **Model Serving Infrastructure**: High-performance model serving with auto-scaling
+-  **GPU Cluster for Deep Learning**: Kubernetes-based GPU cluster for distributed training
+-  **ML Pipeline Platform**: End-to-end ML pipeline with Kubeflow
+-  **Model Serving Infrastructure**: High-performance model serving with auto-scaling
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 I'm always open to discussing:
 - Infrastructure architecture and best practices
@@ -130,8 +130,8 @@ I'm always open to discussing:
 - Open source contributions
 
 Feel free to reach out via:
-- 📧 Email: [husnain.devops@gmail.com](mailto:husnain.devops@gmail.com)
-- 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/husnain-devops/)
+-  Email: [husnain.devops@gmail.com](mailto:husnain.devops@gmail.com)
+-  LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/husnain-devops/)
 
 ---
 
