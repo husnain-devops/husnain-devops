@@ -72,28 +72,19 @@ I'm a passionate infrastructure engineer specializing in **bare metal servers**,
 
 ### 🖥️ Bare Metal Servers
 - Server provisioning and configuration management
-- Hardware optimization for performance-critical workloads
-- Network configuration and security hardening
+- Hardware & Network configuration
+- Security hardening
 - RAID setup and storage management
 - BIOS/UEFI configuration and firmware updates
-- Performance tuning and benchmarking
+
 
 ### ☸️ Kubernetes
 - Cluster design and deployment (on-premises and cloud)
 - Helm charts and package management
 - Service mesh implementation (Istio, Linkerd)
 - Kubernetes operators and custom resources
-- Multi-cluster management and federation
 - Security policies (RBAC, Pod Security Policies, Network Policies)
 - Monitoring and observability (Prometheus, Grafana, Jaeger)
-
-### 🤖 Deep Learning & AI Infrastructure
-- GPU cluster setup and management (NVIDIA CUDA, cuDNN)
-- Distributed training infrastructure
-- Model serving platforms (TensorFlow Serving, TorchServe, Triton)
-- ML pipeline orchestration (Kubeflow, MLflow)
-- Data pipeline architecture for ML workloads
-- Model versioning and experiment tracking
 
 ### ☁️ Cloud Architecture
 - Multi-cloud and hybrid cloud strategies
@@ -103,17 +94,13 @@ I'm a passionate infrastructure engineer specializing in **bare metal servers**,
 - Cost optimization and resource management
 - Disaster recovery and high availability design
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+### 🤖 Deep Learning & AI Infrastructure
+- GPU cluster setup and management (NVIDIA CUDA, ROCm)
+- Training and Transfer Learning
+- Model serving platforms (TensorFlow Serving, TorchServe, Triton)
+- ML pipeline orchestration (Kubeflow, MLflow)
+- Data pipeline architecture for ML workloads
+- Model versioning and experiment tracking
 
 </div>
 
@@ -144,7 +131,7 @@ I'm always open to discussing:
 
 Feel free to reach out via:
 - 📧 Email: [husnain.devops@gmail.com](mailto:husnain.devops@gmail.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/husnain-devops/)
+- 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/husnain-devops/)
 
 ---
 
