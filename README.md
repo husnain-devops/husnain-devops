@@ -1,10 +1,10 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Husnain 👋
 
 <div align="center">
   
 ### 🚀 Infrastructure Engineer | Cloud Architect | AI/ML Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/husnain-devops/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:husnain.devops@gmail.com)
 
@@ -144,7 +144,7 @@ I'm always open to discussing:
 
 Feel free to reach out via:
 - 📧 Email: [husnain.devops@gmail.com](mailto:husnain.devops@gmail.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/husnain-devops/)
 
 ---
 
