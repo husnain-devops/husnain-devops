@@ -131,7 +131,6 @@ I'm always open to discussing:
 
 Feel free to reach out via:
 -  Email: [husnain.devops@gmail.com](mailto:husnain.devops@gmail.com)
--  LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/husnain-devops/)
 
 ---
 
