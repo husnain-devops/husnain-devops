@@ -137,7 +137,7 @@ Feel free to reach out via:
 <div align="center">
 
 ### ⚡ Fun Fact
-> "The best infrastructure is the one you don't have to think about."
+> "The best DevOps Engineer is the one who works the least :)."
 
 **Thanks for visiting!** ⭐
 
